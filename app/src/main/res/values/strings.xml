@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery Temperature</string>
+    <string name="celsius">&#176;C</string>
+</resources>
